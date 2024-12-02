@@ -21,21 +21,19 @@ There is otherwise no active development or roadmap for this project. It is "DIY
 
 > See [Projects](https://github.com/zxing-js/library/projects) and [Milestones](https://github.com/zxing-js/library/milestones) for what is currently done and what's planned next. 👀
 
-| 1D product | 1D industrial       | 2D             |
-| ---------- | ------------------- | -------------- |
-| UPC-A      | Code 39             | QR Code        |
-| UPC-E      | ~~Code 93~~         | Data Matrix    |
-| EAN-8      | Code 128            | Aztec          |
-| EAN-13     | ~~Codabar~~         | PDF 417        |
-|            | ITF                 | ~~MaxiCode~~   |
-|            | RSS-14              |
-|            | ~~RSS-Expanded~~ \* |
+| 1D product | 1D industrial                        | 2D           |
+| ---------- |--------------------------------------|--------------|
+| UPC-A      | Code 39                              | QR Code      |
+| UPC-E      | Code 93                              | Data Matrix  |
+| EAN-8      | Code 128                             | Aztec        |
+| EAN-13     | Codabar                              | PDF 417      |
+|            | ITF                                  | ~~MaxiCode~~ |
+|            | RSS-14                               |              |
+|            | RSS-Expanded (not production ready!) |              |
 
-**\*** In progress, may have open PR.
 
 ## Status
 
-[![Build Status](https://travis-ci.org/zxing-js/library.svg?branch=master)](https://travis-ci.org/zxing-js/library)
 [![Maintainer wanted](https://img.shields.io/badge/maintained-help%20wanted-red)](https://npmjs.org/package/@zxing/ngx-scanner)
 [![Greenkeeper badge](https://badges.greenkeeper.io/zxing-js/library.svg)](https://greenkeeper.io/)
 
@@ -46,7 +44,6 @@ There is otherwise no active development or roadmap for this project. It is "DIY
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/2b9c6ae92412ee8e15a9/maintainability)](https://codeclimate.com/github/zxing-js/library/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/2b9c6ae92412ee8e15a9/test_coverage)](https://codeclimate.com/github/zxing-js/library/test_coverage)
-[![BCH compliance](https://bettercodehub.com/edge/badge/zxing-js/library?branch=master)](https://bettercodehub.com/)
 
 ### Attention
 
